@@ -1,1 +1,5 @@
-# Cracker_Barrel_Game
+To compile:
+
+javac PegGame.java
+
+java PegGame.java
